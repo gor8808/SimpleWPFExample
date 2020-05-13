@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\WPFExample\WPFExample\bin\Debug\WPFExample.exe.config
+C:\Users\Dell\Desktop\Gor\C#\MIC\WPFExample\WPFExample\bin\Debug\WPFExample.exe
+C:\Users\Dell\Desktop\Gor\C#\MIC\WPFExample\WPFExample\bin\Debug\WPFExample.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\WPFExample\WPFExample\obj\Debug\WPFExample.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\WPFExample\WPFExample\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\WPFExample\WPFExample\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\WPFExample\WPFExample\obj\Debug\WPFExample_MarkupCompile.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\WPFExample\WPFExample\obj\Debug\WPFExample_MarkupCompile.lref
+C:\Users\Dell\Desktop\Gor\C#\MIC\WPFExample\WPFExample\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\Gor\C#\MIC\WPFExample\WPFExample\obj\Debug\WPFExample.g.resources
+C:\Users\Dell\Desktop\Gor\C#\MIC\WPFExample\WPFExample\obj\Debug\WPFExample.Properties.Resources.resources
+C:\Users\Dell\Desktop\Gor\C#\MIC\WPFExample\WPFExample\obj\Debug\WPFExample.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\WPFExample\WPFExample\obj\Debug\WPFExample.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\WPFExample\WPFExample\obj\Debug\WPFExample.exe
+C:\Users\Dell\Desktop\Gor\C#\MIC\WPFExample\WPFExample\obj\Debug\WPFExample.pdb
